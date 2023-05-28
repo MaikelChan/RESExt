@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "RESExt": {
+      "commandName": "Project",
+      "commandLineArgs": "-e TITTIM.BIN"
+    }
+  }
+}
